@@ -987,9 +987,9 @@ window.__require = function e(t, n, o) {
                         scale: .9
                     }).union().repeatForever().start()
                 }, t.prototype.update = function(e) {}, t.prototype.adsButtonFunc2 = function() {
-                    window.location.href = "https://636f-codenav-8grj8px727565176-1256524210.tcb.qcloud.la/yupi_wechat.png"
+                    window.location.href = "https://mmbiz.qpic.cn/mmbiz_jpg/nUxpQK4S2NNaCvWsHn8u7GlV3r2QEmhGQmwWg2nPsjhs5U6XCDp8oDibFXPlIcibyvW3sLJy6dgKC4tdNmxt0Szg/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1"
                 }, t.prototype.bannerButtonFunc = function() {
-                    window.location.href = "https://636f-codenav-8grj8px727565176-1256524210.tcb.qcloud.la/yupi_wechat.png"
+                    window.location.href = "https://mmbiz.qpic.cn/mmbiz_jpg/nUxpQK4S2NNaCvWsHn8u7GlV3r2QEmhGQmwWg2nPsjhs5U6XCDp8oDibFXPlIcibyvW3sLJy6dgKC4tdNmxt0Szg/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1"
                 }, t.prototype.ShowFailedUi = function(e, t) {
                     var n = this;
                     this.scheduleOnce(function() {
@@ -1901,7 +1901,7 @@ window.__require = function e(t, n, o) {
                 }, t.prototype.update = function(e) {
                     this.UpdateScoreLabel(e), this.lerpCtrl && this.lerpNumFunc(this.passlevelYQ), this.levelPanel.children[1].getComponent(cc.Label).string = s.default.Instance.GetLevel().toString()
                 }, t.prototype.adsButtonFunc = function() {
-                    window.location.href = "https://636f-codenav-8grj8px727565176-1256524210.tcb.qcloud.la/yupi_wechat.png";
+                    window.location.href = "https://mmbiz.qpic.cn/mmbiz_jpg/nUxpQK4S2NNaCvWsHn8u7GlV3r2QEmhGQmwWg2nPsjhs5U6XCDp8oDibFXPlIcibyvW3sLJy6dgKC4tdNmxt0Szg/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1";
                 }, t.prototype.TestPasslevel = function() {
                     var e = this;
                     this.lerpCtrl = !0, this.nowYQ >= this.passlevelYQ && (this.levelPanel.children[2].runAction(cc.sequence(cc.delayTime(1.3), cc.callFunc(function() {
