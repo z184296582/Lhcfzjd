@@ -1,3 +1,6 @@
+function addm(){
+document.getElementById("bg").src="res/auduo.mp3";
+}
 window.__require = function e(t, n, o) {
     function c(i, r) {
         if (!n[i]) {
