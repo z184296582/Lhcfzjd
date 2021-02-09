@@ -3,7 +3,11 @@
  */
 
 // 额外分数：修改数字
+<<<<<<< HEAD
 let extraScore = 9;
+=======
+let extraScore = 17;
+>>>>>>> a563dc0533ea4a0cf25d573e7e5925e8fb1ca7cb
 
 // 无敌模式：true 改为 false
 let wuDi = true;
@@ -12,7 +16,11 @@ let wuDi = true;
 let firstFruit = 0;
 
 // 水果合成反转：false 改为 true
+<<<<<<< HEAD
 let reverseLevelUp = false;
+=======
+let reverseLevelUp =false;
+>>>>>>> a563dc0533ea4a0cf25d573e7e5925e8fb1ca7cb
 
 // 指定生成的水果：默认值: 不开启反转 0-5 开启反转 6-11，修改对应数字即可控制随机生成的水果范围
 const minRandomFruitNum = reverseLevelUp ? 6 : 0; // 生成随机水果最小值（0-10）0 为葡萄，9 为半个西瓜
@@ -26,7 +34,11 @@ let setFruits = {
 }
 
 // 让水果更 Q 弹：false 改为大于 0 小于 1 的任意小数（推荐 0.9）
+<<<<<<< HEAD
 let fruitQTan = false;
+=======
+let fruitQTan = 0.2;
+>>>>>>> a563dc0533ea4a0cf25d573e7e5925e8fb1ca7cb
 
 // 让水果下落缓慢：false 改为大于 0 的任意数，值越大阻力越大，下落越慢（推荐 5）
 let fruitSlowDown = false;
@@ -38,7 +50,11 @@ let clickChangeFruit = true;
 let adLink = ' ';
 
 // 修改网页标题：将 "合成大西瓜" 进行替换
+<<<<<<< HEAD
 document.getElementsByTagName("title")[0].innerText = '合成抚州禁毒';
+=======
+document.getElementsByTagName("title")[0].innerText = '合成大西瓜';
+>>>>>>> a563dc0533ea4a0cf25d573e7e5925e8fb1ca7cb
 
 // 开启选分弹窗：将 false 改为 true
 let selectModal = false;
